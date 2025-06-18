@@ -1,59 +1,77 @@
-# 👋 Hello, I'm Sandeep Singh!
+# 👋 Hello, I'm **Sandeep Singh**!
 
-I'm a passionate developer with a knack for building innovative solutions and exploring new technologies. Welcome to my corner of the internet!
-
-- 🔭 **Currently Working On**: Building scalable web applications and experimenting with AI-driven projects.
-- 🌱 **Currently Learning**: Advanced React patterns, TypeScript, and cloud architecture (AWS).
-- 👯 **Looking to Collaborate On**: Open-source projects focused on web development, machine learning, or developer tools.
-- 🤔 **Looking for Help With**: Optimizing backend performance and diving deeper into DevOps practices.
-- 💬 **Ask Me About**: JavaScript, Python, React, or anything tech-related!
-- 📫 **How to Reach Me**: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter/X](https://x.com/your-profile)
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: I once debugged a piece of code while hiking in the mountains—talk about coding with a view!
+I'm a passionate full-stack developer who loves building scalable web apps and exploring new technologies. Welcome to my corner of the internet! 😄
 
 ---
 
-## 🚀 My GitHub Stats
+## 🚀 About Me
 
-![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandeep-singh-99&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-singh-99&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🛠️ Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+- 🔭 **Currently Working On**: Scalable web applications and AI-powered tools.  
+- 🌱 **Learning**: Advanced React patterns, TypeScript, and AWS cloud architecture.  
+- 🤝 **Open to Collaborate**: Web dev, AI/ML, open-source, and dev tools.  
+- 🧠 **Looking for Help With**: Backend optimization and DevOps workflows.  
+- 💬 **Ask Me About**: JavaScript, React, Python, or any tech stack I'm using.  
+- 📫 **Reach Me At**:  
+  [📩 Email](mailto:your.email@example.com) • [💼 LinkedIn](https://www.linkedin.com/in/your-profile) • [🐦 X/Twitter](https://x.com/your-profile)  
+- 😄 **Pronouns**: He/Him  
+- ⚡ **Fun Fact**: Debugged code while hiking in the mountains ⛰️ — multitasking level 💯
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-- **[Project Name]**: A brief description of a standout project. [Link to repo](#)
-- **[Project Name]**: A brief description of another cool project. [Link to repo](#)
-- **[Project Name]**: Something you're proud of! [Link to repo](#)
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+
+**Backend & DevOps**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 ---
 
-## 📊 GitHub Trophies
+## 💼 Featured Projects
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sandeep-singh-99&theme=radical&no-frame=true)
+| Project | Description | Link |
+|--------|-------------|------|
+| **File Explorer UI (React)** | Recursive component & tree traversal hook for folder structure | [🔗 View on GitHub](#) |
+| **E-Commerce App (MERN)** | Cart, product management, and PhonePe integration | [🔗 View on GitHub](#) |
+| **Portfolio Website** | Built using Next.js + Tailwind CSS with CMS support | [🔗 View on GitHub](#) |
+
+> 🔗 *More projects coming soon...*
 
 ---
 
-## 🤝 Let's Connect!
+## 📈 GitHub Stats
 
-Feel free to reach out for collaboration, feedback, or just a chat about tech!  
-- [Portfolio](#)  
-- [Blog](#)  
-- [X/Twitter](https://x.com/your-profile)  
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-singh-99&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-singh-99&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sandeep-singh-99&theme=radical&no-frame=true&column=6" />
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+I love connecting with like-minded developers. Feel free to reach out:
+
+- 🌐 [Portfolio](#)
+- 📝 [Blog](#)
+- 🐦 [X/Twitter](https://x.com/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
