@@ -6,11 +6,11 @@ I'm a passionate full-stack developer who loves building scalable web apps and e
 
 ## 🚀 About Me
 
-- 🔭 **Currently Working On**: Scalable web applications and AI-powered tools.  
-- 🌱 **Learning**: Advanced React patterns, TypeScript, and AWS cloud architecture.  
-- 🤝 **Open to Collaborate**: Web dev, AI/ML, open-source, and dev tools.  
-- 🧠 **Looking for Help With**: Backend optimization and DevOps workflows.  
-- 💬 **Ask Me About**: JavaScript, React, Python, or any tech stack I'm using.  
+- 🔭 **Currently Working On**: Scalable web applications and AI-powered tools  
+- 🌱 **Learning**: Advanced React patterns, TypeScript, and Docker  
+- 🤝 **Open to Collaborate**: Web dev, AI, open-source, and dev tools  
+- 🧠 **Looking for Help With**: Backend optimization and DevOps workflows  
+- 💬 **Ask Me About**: JavaScript, React, TypeScript, or Golang  
 - 📫 **Reach Me At**:  
   [📩 Email](mailto:your.email@example.com) • [💼 LinkedIn](https://www.linkedin.com/in/your-profile) • [🐦 X/Twitter](https://x.com/your-profile)  
 - 😄 **Pronouns**: He/Him  
@@ -22,7 +22,8 @@ I'm a passionate full-stack developer who loves building scalable web apps and e
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)  
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)  
@@ -33,7 +34,6 @@ I'm a passionate full-stack developer who loves building scalable web apps and e
 **Backend & DevOps**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 ---
@@ -71,7 +71,7 @@ I'm a passionate full-stack developer who loves building scalable web apps and e
 
 I love connecting with like-minded developers. Feel free to reach out:
 
-- 🌐 [Portfolio](#)
-- 📝 [Blog](#)
-- 🐦 [X/Twitter](https://x.com/your-profile)
+- 🌐 [Portfolio](#)  
+- 📝 [Blog](#)  
+- 🐦 [X/Twitter](https://x.com/your-profile)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
