@@ -63,13 +63,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sandeep-singh-99&theme=radical&no-frame=true&column=6" />
-</p>
-
----
 
 ## 🌐 Let's Connect
 
