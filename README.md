@@ -4,41 +4,38 @@
   💻 Full-Stack Developer | 🚀 Tech Explorer | 🤖 AI Enthusiast  
 </p>
 
-<p align="center">
-  <em>I love building scalable web apps and playing with the latest in tech, AI, and open source.</em>
-</p>
+<p align="center"><em>I build scalable web apps and explore the latest in tech, AI, and open source.</em></p>
 
 ---
 
 ## 🚀 What I'm Up To
 
-- 🔭 Working on: **AI-powered tools** & **scalable web apps**
-- 🌱 Learning: **Advanced React patterns**, **TypeScript**, **Docker**
-- 🤝 Collaborating on: **Dev tools**, **open-source**, **AI integrations**
-- 🧠 Seeking help with: **Backend optimization**, **DevOps workflows**
+- 🔭 Building: **AI-powered tools** & **scalable full-stack apps**
+- 🌱 Learning: **Advanced React**, **TypeScript**, **Docker**
+- 🤝 Collaborating on: **Dev tools**, **Open Source**, **AI integrations**
+- 🧠 Open to: **Backend optimization**, **DevOps workflows**
 - 💬 Ask me about: `JavaScript`, `React`, `TypeScript`, `Golang`, `APIs`, `Microservices`
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I once debugged code while hiking a mountain trail ⛰️
+- ⚡ Fun fact: I once debugged code while hiking ⛰️
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧑‍💻 Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
 ### ⚙️ Backend & DevOps  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
 ---
 
@@ -62,7 +59,6 @@
 </p>
 
 ---
-
 
 ## 🌐 Let's Connect
 
