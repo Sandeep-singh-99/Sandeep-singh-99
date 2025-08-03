@@ -1,53 +1,55 @@
-<h1 align="center">👋 Hey, I'm Sandeep Singh</h1>
+<h1 align="center">Hi 👋, I'm Sandeep Singh</h1>
 
 <p align="center">
-  💻 Full-Stack Developer | 🚀 Tech Explorer | 🤖 AI Enthusiast  
+  <strong>Full-Stack Developer</strong> | Passionate about AI & Open Source
 </p>
 
-<p align="center"><em>I build scalable web apps and explore the latest in tech, AI, and open source.</em></p>
+<p align="center">
+  I build scalable web apps, explore AI integrations, and contribute to developer tooling. Always learning, always shipping.
+</p>
 
 ---
 
-## 🚀 What I'm Up To
+## 🚀 Currently
 
-- 🔭 Building: **AI-powered tools** & **scalable full-stack apps**
-- 🌱 Learning: **Advanced React**, **TypeScript**, **Docker**
-- 🤝 Collaborating on: **Dev tools**, **Open Source**, **AI integrations**
-- 🧠 Open to: **Backend optimization**, **DevOps workflows**
-- 💬 Ask me about: `JavaScript`, `React`, `TypeScript`, `Golang`, `APIs`, `Microservices`
-- ⚡ Fun fact: I once debugged code while hiking ⛰️
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
-
-### 🌐 Frontend  
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-
-### ⚙️ Backend & DevOps  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+- 🛠️ Building: **AI tools**, **SaaS apps**, and **developer utilities**
+- 🧠 Learning: `TypeScript`, `Docker`, `LangGraph`
+- 🤝 Open to: Collaborations on AI & productivity tools
+- 💬 Ask me about: `React`, `Golang`, `Node.js`, `Microservices`, `DevOps`
+- ⚡ Fun fact: I once debugged code while hiking a mountain trail ⛰️
 
 ---
 
-## 💼 Featured Projects
+## 🧰 Tech Stack
 
-| 🧠 Project | 🔍 Description | 🔗 Demo / Code |
-|-----------|----------------|----------------|
-| **🗂️ File Explorer UI** | Recursive folder view using custom hooks & tree traversal | [View Project](your-link-here) |
-| **🛒 E-Commerce (MERN)** | Full e-comm stack with PhonePe integration | [GitHub](your-link-here) |
-| **🌐 Portfolio Site** | Next.js + Tailwind + CMS | [Portfolio](your-link-here) |
+### Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-> ⚒ More projects coming soon — stay tuned!
+### Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Backend & DevOps  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Demo / Code |
+|--------|-------------|-------------|
+| **🗂 File Explorer UI** | Recursive folder tree using custom React hooks | [View Project](#) |
+| **🛒 E-Commerce (MERN)** | Full-stack app with PhonePe payment integration | [GitHub](#) |
+| **🌐 Personal Portfolio** | Portfolio built with Next.js + Tailwind | [Visit](#) |
+
+> More projects coming soon...
 
 ---
 
@@ -60,16 +62,18 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌍 Connect With Me
 
-- 🔗 [Portfolio](your-portfolio-link)
-- ✍️ [Blog](your-blog-link)
-- 🐦 [Twitter/X](https://x.com/your-profile)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📩 [Email](mailto:your.email@example.com)
+<p align="center">
+  <a href="https://your-portfolio-link" target="_blank">🌐 Portfolio</a> •
+  <a href="https://your-blog-link" target="_blank">✍️ Blog</a> •
+  <a href="https://x.com/your-profile" target="_blank">🐦 Twitter/X</a> •
+  <a href="https://linkedin.com/in/your-profile" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:your.email@example.com">📩 Email</a>
+</p>
 
 ---
 
 <p align="center">
-  ⭐️ If you enjoy my work, follow me and give a ⭐️ to my repos. It motivates me to build more cool stuff!
+  If you enjoy my work, feel free to ⭐️ my repositories and follow. Let's connect and build something awesome!
 </p>
