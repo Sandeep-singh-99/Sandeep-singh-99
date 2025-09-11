@@ -49,4 +49,3 @@ I build scalable web apps and explore AI, open source, and developer tools.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-singh-99&theme=radical" height="180em" alt="GitHub Streak" />
 </p>
----
