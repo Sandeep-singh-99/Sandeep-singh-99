@@ -44,3 +44,9 @@ I build scalable web apps and explore AI, open source, and developer tools.
 
 ---
 
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="180em" />
+</p>
+---
