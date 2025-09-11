@@ -42,7 +42,6 @@ I build scalable web apps and explore AI, open source, and developer tools.
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-4B5563?style=flat)
 
----
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-singh-99&show_icons=true&theme=radical&rank_icon=github" height="180em" alt="Sandeep Singh's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-singh-99&layout=compact&theme=radical&hide=html,css" height="180em" alt="Top Languages" />
