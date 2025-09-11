@@ -43,10 +43,11 @@ I build scalable web apps and explore AI, open source, and developer tools.
 ![LangGraph](https://img.shields.io/badge/-LangGraph-4B5563?style=flat)
 
 ---
-
----
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-singh-99&show_icons=true&theme=radical&rank_icon=github" height="180em" alt="Sandeep Singh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-singh-99&layout=compact&theme=radical&hide=html,css" height="180em" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-singh-99&theme=radical" height="180em" alt="GitHub Streak" />
 </p>
 ---
