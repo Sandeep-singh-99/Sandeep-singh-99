@@ -49,7 +49,7 @@ I build scalable web apps and explore AI, open source, and developer tools.
   <!-- GitHub Stats + Top Languages -->
   <a href="https://github.com/Sandeep-singh-99">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=Sandeep-singh-99&show_icons=true&theme=radical&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=0" 
+      src="https://github-readme-stats.vercel.app/api?username=Sandeep-singh-99&show_icons=true&theme=radical&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" 
       height="180em" 
       alt="Sandeep Singh's GitHub Stats" 
     />
@@ -57,7 +57,7 @@ I build scalable web apps and explore AI, open source, and developer tools.
   
   <a href="https://github.com/Sandeep-singh-99">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-singh-99&layout=compact&theme=radical&hide=html,css&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=0" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-singh-99&layout=compact&theme=radical&hide=html,css&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
       height="180em" 
       alt="Top Languages" 
     />
@@ -72,7 +72,7 @@ I build scalable web apps and explore AI, open source, and developer tools.
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/Sandeep-singh-99">
     <img 
-      src="https://streak-stats.demolab.com?user=Sandeep-singh-99&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6A00&currStreakLabel=58A6FF&cache_seconds=0" 
+      src="https://streak-stats.demolab.com?user=Sandeep-singh-99&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6A00&currStreakLabel=58A6FF" 
       height="180em" 
       alt="GitHub Streak" 
     />
