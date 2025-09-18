@@ -49,8 +49,8 @@ I build scalable web apps and explore AI, open source, and developer tools.
   <!-- GitHub Stats + Top Languages -->
   <a href="https://github.com/Sandeep-singh-99">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=Sandeep-singh-99&show_icons=true&theme=radical&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" 
-      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=Sandeep-singh-99&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" 
+      height="180" 
       alt="Sandeep Singh's GitHub Stats" 
     />
   </a>
@@ -58,7 +58,7 @@ I build scalable web apps and explore AI, open source, and developer tools.
   <a href="https://github.com/Sandeep-singh-99">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-singh-99&layout=compact&theme=radical&hide=html,css&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
-      height="180em" 
+      height="180" 
       alt="Top Languages" 
     />
   </a>
@@ -73,10 +73,11 @@ I build scalable web apps and explore AI, open source, and developer tools.
   <a href="https://github.com/Sandeep-singh-99">
     <img 
       src="https://streak-stats.demolab.com?user=Sandeep-singh-99&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6A00&currStreakLabel=58A6FF" 
-      height="180em" 
+      height="180" 
       alt="GitHub Streak" 
     />
   </a>
 
 </div>
+
 
