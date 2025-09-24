@@ -65,13 +65,6 @@ I build scalable web apps and explore AI, open source, and developer tools.
   </a>
 
   <!-- GitHub Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=Sandeep-singh-99&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF4500&currStreakLabel=58A6FF" 
-      alt="GitHub Streak" 
-      height="180"
-    />
-  </a>
 
 </div>
 
