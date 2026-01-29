@@ -42,38 +42,5 @@ I build scalable web apps and explore AI, open source, and developer tools.
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-4B5563?style=flat)
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/Sandeep-singh-99">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Sandeep-singh-99&show_icons=true&theme=radical&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F8D866" 
-      alt="Sandeep's GitHub stats" 
-      height="180"
-    />
-  </a>
-
-  <!-- Top Languages Card -->
-  <a href="https://github.com/Sandeep-singh-99">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-singh-99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
-      alt="Top Languages"
-      height="180"
-    />
-  </a>
-
-  <!-- GitHub Streak Stats -->
-
-  <a href="https://github.com/Sandeep-singh-99">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-singh-99&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=F8D866&sideLabels=58A6FF" 
-      alt="GitHub Streak Stats"
-      height="180"
-    />
-  </a>
-  
-</div>
 
 
