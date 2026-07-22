@@ -44,3 +44,16 @@ I build scalable web apps and explore AI, open source, and developer tools.
 ---
 
 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sandeep-singh-99&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeep-singh-99&theme=tokyo-night" />
+</p>
+
+
+
