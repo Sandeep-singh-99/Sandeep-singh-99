@@ -1,16 +1,19 @@
 # Hi, I'm Sandeep Singh 👋
 
-**Full-Stack Developer**  
-I build scalable web apps and explore AI, open source, and developer tools.
+### Full-Stack Developer | Backend Developer | AI/GenAI Developer
+
+I build and deploy full-stack and AI-powered applications, with a focus on backend engineering, modern web technologies, and LLM-based applications.
+
+I enjoy turning ideas into real products — from designing APIs and databases to integrating AI workflows and deploying applications.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Working on: AI tools & full-stack SaaS projects  
-- 🌱 Learning: TypeScript, Docker, LangGraph  
-- 💬 Ask me about: `$ JavaScript`, `$ TypeScript`, `$ Golang`, `$ Python`, `$ FastAPI`, `$ React`, `$ Node.js`  
-- ⚡ Fun fact: I once debugged code while hiking a mountain trail  
+- 🔭 Building full-stack and AI-powered applications
+- 🧠 Exploring LLMs, RAG, LangChain & LangGraph
+- ⚙️ Interested in backend development and scalable APIs
+- 🐳 Working with Docker, Redis & cloud deployment
 
 ---
 
