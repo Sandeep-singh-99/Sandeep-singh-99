@@ -1,62 +1,50 @@
-# Hi, I'm Sandeep Singh 👋
+<div align="center">
+  <h1>Hi, I'm Sandeep Singh 👋</h1>
+  <p>
+    <strong>Full-Stack Developer | Backend Engineer | AI / GenAI Developer</strong>
+  </p>
+  <p>
+    <em>Building scalable backends, modern web applications, and autonomous AI/LLM workflows.</em>
+  </p>
 
-### Full-Stack Developer | Backend Developer | AI/GenAI Developer
-
-I build and deploy full-stack and AI-powered applications, with a focus on backend engineering, modern web technologies, and LLM-based applications.
-
-I enjoy turning ideas into real products — from designing APIs and databases to integrating AI workflows and deploying applications.
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://twitter.com/YOUR-TWITTER-USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🔭 Building full-stack and AI-powered applications
-- 🧠 Exploring LLMs, RAG, LangChain & LangGraph
-- ⚙️ Interested in backend development and scalable APIs
-- 🐳 Working with Docker, Redis & cloud deployment
+- 🔭 **Building:** Scalable full-stack platforms and AI-native applications.
+- 🧠 **Exploring:** LLMs, RAG architectures, LangChain, and LangGraph agentic workflows.
+- ⚙️ **Backend:** Designing high-performance REST APIs, event streams, and relational/NoSQL databases.
+- 🐳 **DevOps:** Containerization with Docker, caching via Redis, and automated deployments.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `TypeScript` `JavaScript` |
+| **AI / GenAI** | `LangChain` `LangGraph` `RAG` `OpenAI API` |
+| **Backend & DB** | `FastAPI` `Node.js` `PostgreSQL` `MongoDB` `Redis` `Prisma` |
+| **Frontend** | `React` `Next.js` `Tailwind CSS` |
+| **DevOps & Tools** | `Docker` `Git` `Postman` `Linux` |
 
-### Frontend  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Backend & DevOps  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-### AI / LLM Tools  
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-4B5563?style=flat)
 ---
 
+### 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-singh-99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-singh-99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sandeep-singh-99&theme=tokyonight&hide_border=true" />
-</p> 
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeep-singh-99&theme=tokyo-night" />
-</p>
-
-
-
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Sandeep-singh-99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
